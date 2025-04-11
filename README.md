@@ -1,6 +1,7 @@
 # AI Career Coach - Gen AI
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vsamarnathoffl/AI_Career_Coach_GEN_AI/blob/main/AI_Career_Coach.ipynb)
 
 This project implements an AI-powered Career Coach designed to analyze your resume and provide personalized career insights and answer your career-related questions. Leveraging the power of Generative AI and Retrieval-Augmented Generation (RAG), this tool offers intelligent interaction with your resume.
 
